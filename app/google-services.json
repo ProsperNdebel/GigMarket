@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934209317956",
+    "project_id": "gigmarket-b8f8c",
+    "storage_bucket": "gigmarket-b8f8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934209317956:android:b28a4d102886ebbffea011",
+        "android_client_info": {
+          "package_name": "com.gigmarket.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-tN9zhjOjYDgJ6ouELlmgWPb8WIZ2oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -38,10 +38,10 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 
-@Preview(showBackground = true)
+@Preview(showBackground = false)
 @Composable
 fun GreetingPreview() {
     GigMarketTheme {
-        Greeting("Android")
+        Greeting("Andro")
     }
 }
